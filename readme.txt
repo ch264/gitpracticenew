@@ -28,3 +28,20 @@ git .gitignore
 touch log.txt
 // then add log.txt to the gitignore file and save it.
 // add all names of the files that you do not want ot have inlcuded
+
+
+// make Branches e.g. you have to make a login
+git branch login (name of branch)
+
+// switch to Branches
+git checkout login
+
+(git checkout master (to go back))
+()// when going back your new files will be gone from Atom view)
+
+// add files to new Branches
+touch login.html
+
+// merge branches while in master
+git merge login
+// now login file will appear again in Atom
