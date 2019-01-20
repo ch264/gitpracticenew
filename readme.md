@@ -54,3 +54,9 @@ git push -u origin master
 
 // make changes to your files and push add, commit, push to GitHub
 git push
+
+// clone repository
+git clone 'url'
+
+// you can pull all changes from clones to your repository
+git pull
