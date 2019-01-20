@@ -1,3 +1,4 @@
+#gitpractice
 Make folder
 Mkdir App
 
@@ -45,3 +46,8 @@ touch login.html
 // merge branches while in master
 git merge login
 // now login file will appear again in Atom
+
+// create a new repository in GitHub
+// it will give you the link to add your files
+git remote add origin https://github.com/ch264/Appsample.git
+git push -u origin master
