@@ -51,3 +51,6 @@ git merge login
 // it will give you the link to add your files
 git remote add origin https://github.com/ch264/Appsample.git
 git push -u origin master
+
+// make changes to your files and push add, commit, push to GitHub
+git push
